@@ -1,3 +1,5 @@
+![Web capture_1-12-2023_2550_](https://github.com/Deepikarukmani/Airbnb_Analysis/assets/140103694/1beea085-84dc-4437-9c89-49326d16293e)
+![Web capture_1-12-2023_2618_](https://github.com/Deepikarukmani/Airbnb_Analysis/assets/140103694/86977bc2-02eb-4962-8ee5-497b9dc38f76)
 # Airbnb_Analysis
 
 
