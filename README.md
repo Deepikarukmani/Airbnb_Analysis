@@ -1,5 +1,3 @@
-![Web capture_1-12-2023_2550_](https://github.com/Deepikarukmani/Airbnb_Analysis/assets/140103694/1beea085-84dc-4437-9c89-49326d16293e)
-![Web capture_1-12-2023_2618_](https://github.com/Deepikarukmani/Airbnb_Analysis/assets/140103694/86977bc2-02eb-4962-8ee5-497b9dc38f76)
 # Airbnb_Analysis
 
 
@@ -28,4 +26,7 @@
   Use the cleaned data to analyze and visualize how prices vary across different locations, property types, and seasons. Create dynamic plots and charts that enable users to explore price trends, outliers, and correlations with other variables.
 #### Step 5 :
   Utilize  Power BI to create a comprehensive dashboard that presents key insights from your analysis. Combine different visualizations, such as maps, charts, and tables, to provide a holistic view of the Airbnb dataset and its patterns.
+
+![Web capture_1-12-2023_2455_](https://github.com/Deepikarukmani/Airbnb_Analysis/assets/140103694/c17211f6-2f2d-4e96-8dc1-677e71ba763c)
+
 
